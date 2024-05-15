@@ -1,0 +1,35 @@
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\bin\Debug\net6.0\MaksimApp.Data.deps.json
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\bin\Debug\net6.0\MaksimApp.Data.dll
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\bin\Debug\net6.0\MaksimApp.Data.pdb
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\bin\Debug\net6.0\MaksimApp.Core.dll
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\bin\Debug\net6.0\MaksimApp.Core.pdb
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.csproj.CopyComplete
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.dll
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\obj\Debug\net6.0\refint\MaksimApp.Data.dll
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.pdb
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\obj\Debug\net6.0\ref\MaksimApp.Data.dll
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\bin\Debug\net6.0\MaksimApp.Data.runtimeconfig.json
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.genruntimeconfig.cache
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\bin\Debug\net6.0\MaksimApp.Data.deps.json
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\bin\Debug\net6.0\MaksimApp.Data.runtimeconfig.json
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\bin\Debug\net6.0\MaksimApp.Data.dll
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\bin\Debug\net6.0\MaksimApp.Data.pdb
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\bin\Debug\net6.0\MaksimApp.Core.dll
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\bin\Debug\net6.0\MaksimApp.Core.pdb
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.csproj.AssemblyReference.cache
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.AssemblyInfoInputs.cache
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.AssemblyInfo.cs
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.sourcelink.json
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\obj\Debug\net6.0\MaksimAp.F068688E.Up2Date
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.dll
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\obj\Debug\net6.0\refint\MaksimApp.Data.dll
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.pdb
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\obj\Debug\net6.0\MaksimApp.Data.genruntimeconfig.cache
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Data\obj\Debug\net6.0\ref\MaksimApp.Data.dll

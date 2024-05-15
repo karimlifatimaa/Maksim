@@ -1,0 +1,39 @@
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Business.deps.json
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Business.dll
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Business.pdb
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Core.dll
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Data.dll
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Data.pdb
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Core.pdb
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.csproj.CopyComplete
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.dll
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\obj\Debug\net6.0\refint\MaksimApp.Business.dll
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.pdb
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\obj\Debug\net6.0\ref\MaksimApp.Business.dll
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Business.runtimeconfig.json
+C:\Users\II novbe\Desktop\MVC_Task\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.genruntimeconfig.cache
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Business.deps.json
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Business.runtimeconfig.json
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Business.dll
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Business.pdb
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Core.dll
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Data.dll
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Data.pdb
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\bin\Debug\net6.0\MaksimApp.Core.pdb
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.csproj.AssemblyReference.cache
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.AssemblyInfoInputs.cache
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.AssemblyInfo.cs
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.sourcelink.json
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\obj\Debug\net6.0\MaksimAp.6CE1881E.Up2Date
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.dll
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\obj\Debug\net6.0\refint\MaksimApp.Business.dll
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.pdb
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\obj\Debug\net6.0\MaksimApp.Business.genruntimeconfig.cache
+C:\Users\User1\OneDrive\Desktop\maksim\MaksimApp\MaksimApp.Business\obj\Debug\net6.0\ref\MaksimApp.Business.dll

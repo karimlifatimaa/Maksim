@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\viewmodel\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:viewmodel\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:controllers\\pagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\areas\\admin\\views\\service\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:areas\\admin\\views\\service\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\areas\\admin\\views\\service\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:areas\\admin\\views\\service\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:areas\\admin\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|c:\\users\\user1\\onedrive\\desktop\\task\\maksimapp\\maxsimapp\\views\\page\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ACD87B1-7926-4E93-9AC4-9E161D3F54E4}|MaxsimApp.csproj|solutionrelative:views\\page\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Data\\Migrations\\20240515015741_userTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Service\\Concretes\\ServiceServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\Services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\AppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\RepositoryAbstracts\\IServicesRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Service\\Abstracts\\IServiceServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Data\\RepositoryConcretes\\ServicesRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\RepositoryAbstracts\\IGenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Data\\RepositoryConcretes\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\FileContentException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\FileNameNotFoundException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\DuplicateServiceException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Data\\Migrations\\20240514111615_createServicesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\ViewModel\\AdminLoginVm.cs",
+              "RelativeDocumentMoniker": "ViewModel\\AdminLoginVm.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\ViewModel\\AdminLoginVm.cs",
+              "RelativeToolTip": "ViewModel\\AdminLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:22:58.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T02:10:14.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:09:35.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240515015741_userTableCreated.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Data\\Migrations\\20240515015741_userTableCreated.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Data\\Migrations\\20240515015741_userTableCreated.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Data\\Migrations\\20240515015741_userTableCreated.cs",
+              "RelativeToolTip": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Data\\Migrations\\20240515015741_userTableCreated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:57:41.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ServiceServices.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Service\\Concretes\\ServiceServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Business\\Service\\Concretes\\ServiceServices.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Service\\Concretes\\ServiceServices.cs",
+              "RelativeToolTip": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Business\\Service\\Concretes\\ServiceServices.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAE8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:42:36.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\Services.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\Services.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\Services.cs",
+              "RelativeToolTip": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\Services.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Controllers\\PageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PageController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Controllers\\PageController.cs",
+              "RelativeToolTip": "Controllers\\PageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\Service\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Service\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\Service\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Service\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:42:36.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IServicesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\RepositoryAbstracts\\IServicesRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Core\\RepositoryAbstracts\\IServicesRepository.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\RepositoryAbstracts\\IServicesRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Core\\RepositoryAbstracts\\IServicesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IServiceServices.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Service\\Abstracts\\IServiceServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Business\\Service\\Abstracts\\IServiceServices.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Service\\Abstracts\\IServiceServices.cs",
+              "RelativeToolTip": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Business\\Service\\Abstracts\\IServiceServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ServicesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Data\\RepositoryConcretes\\ServicesRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Data\\RepositoryConcretes\\ServicesRepository.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Data\\RepositoryConcretes\\ServicesRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Data\\RepositoryConcretes\\ServicesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T16:42:36.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FileContentException.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\FileContentException.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\FileContentException.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\FileContentException.cs",
+              "RelativeToolTip": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\FileContentException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:43:00.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FileNameNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\FileNameNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\FileNameNotFoundException.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\FileNameNotFoundException.cs",
+              "RelativeToolTip": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\FileNameNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:43:01.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DuplicateServiceException.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\DuplicateServiceException.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\DuplicateServiceException.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\DuplicateServiceException.cs",
+              "RelativeToolTip": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Business\\Excepton\\DuplicateServiceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:57.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAIcBAAAAAAAAAAAqwKkBAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:42:36.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:42:36.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:42:36.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\Service\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Service\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\Service\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Service\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:42:36.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Service\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:42:36.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAIBJwH4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:42:36.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAADYBAAAAAAAAAAAqwEABAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:42:36.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:42:36.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-14T16:42:36.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240514111615_createServicesTable.cs",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Data\\Migrations\\20240514111615_createServicesTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Data\\Migrations\\20240514111615_createServicesTable.cs",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\maksim\\MaksimApp\\MaksimApp.Data\\Migrations\\20240514111615_createServicesTable.cs",
+              "RelativeToolTip": "..\\..\\..\\maksim\\MaksimApp\\MaksimApp.Data\\Migrations\\20240514111615_createServicesTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:42:36.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Views\\Page\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Page\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Views\\Page\\Index.cshtml",
+              "RelativeToolTip": "Views\\Page\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:42:36.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:42:36.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User1\\OneDrive\\Desktop\\Task\\MaksimApp\\MaxsimApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T16:42:36.894Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
